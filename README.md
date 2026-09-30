@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wave.svg" width="100%" alt="Hello Students, in Morse code">
+   <img src="header.svg" width="100%" alt="Hello Students, in Morse code">
 
 ```
 /summon wizard Mr.Unland {Tags:["scientist","mathematician","astronomer"]}
@@ -12,7 +12,7 @@
 
 </div>
 
-I'm **Mr. Unland**: part computer wizard, part mathematician, part stargazer. I started out teaching code inside Minecraft, because the best way to learn is **by playing** and **by doing**.
+I'm **Mr. Unland**: I love coding, showing folks how computer works, and working on interesting Math problems on my time off. I often broke stuff by accident growing up so I had to get real good at fixing it! You can often find me tinkering with thing in my free time, or going on long walks to explore the world. I grew up amongst the stars of the night sky, so I like to take night rides to where I can see them again. 
 
 - P2 - Room 10 - 10:55-12:45/10:35-12:25 - $\color{#00f0ff}\texttt{Computer Science Discoveries}$
 - P3 - Room 12 - 2:00-3:50/2:10-3:50 - $\color{#00f0ff}\texttt{Computer Science Discoveries}$
