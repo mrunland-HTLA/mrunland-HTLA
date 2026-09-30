@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 130" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round">
+<clipPath id="c"><rect x="181" y="88" height="40">
+<animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;17;34;51;68;102;119;136;153;170;187;204;221;238" keyTimes="0;.0583;.0917;.1917;.2917;.4083;.5083;.5583;.6417;.725;.7583;.825;.875;.9417"/>
+</rect></clipPath>
+<path d="M0 45H600" opacity=".25"/>
+<path d="M0 45q15-60 30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0">
+<animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="1;0;1;0;1;0;1;0;0;0;1;0;0;0;1;0;1;1;1;0;1;0;1;0;0;0;1;0;1;1;1;0;1;0;1;0;0;0;1;1;1;0;1;1;1;0;1;1;1;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;1;1;1;0;0;0;1;0;1;0;1;1;1;0;0;0;1;1;1;0;1;0;1;0;0;0;1;0;0;0;1;1;1;0;1;0;0;0;1;1;1;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0"/>
+</path>
+<text x="181" y="115" fill="#58a6ff" stroke="none" font-family="monospace" font-size="28" font-weight="bold" textLength="238" clip-path="url(#c)">Hello Students</text>
+</svg>
