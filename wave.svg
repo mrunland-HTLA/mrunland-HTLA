@@ -1,10 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 130" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" fill="none" stroke-linecap="round">
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x2="600"><stop stop-color="#00f0ff"/><stop offset="1" stop-color="#b266ff"/></linearGradient>
+<radialGradient id="b" cy=".4" r=".8"><stop stop-color="#1b1147"/><stop offset="1" stop-color="#05030f"/></radialGradient>
+<filter id="f" filterUnits="userSpaceOnUse" width="600" height="140"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="s" width="89" height="53" patternUnits="userSpaceOnUse"><circle cx="11" cy="9" r="1" fill="#fff"/><circle cx="50" cy="31" r=".7" fill="#fff"/><circle cx="74" cy="15" r="1.2" fill="#cdf"/></pattern>
+<pattern id="t" width="61" height="97" patternUnits="userSpaceOnUse"><circle cx="8" cy="70" r="1" fill="#fff"/><circle cx="40" cy="20" r=".8" fill="#fdc"/><circle cx="52" cy="55" r=".6" fill="#fff"/></pattern>
 <clipPath id="c"><rect x="181" y="88" height="40">
 <animate attributeName="width" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="0;17;34;51;68;102;119;136;153;170;187;204;221;238" keyTimes="0;.0583;.0917;.1917;.2917;.4083;.5083;.5583;.6417;.725;.7583;.825;.875;.9417"/>
 </rect></clipPath>
+</defs>
+<rect width="600" height="140" rx="14" fill="url(#b)"/>
+<rect width="600" height="140" fill="url(#s)"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></rect>
+<rect width="600" height="140" fill="url(#t)"><animate attributeName="opacity" values=".3;1;.3" dur="4.3s" repeatCount="indefinite"/></rect>
+<circle r="3.5" fill="#ff9ad5"><animateMotion dur="14.4s" repeatCount="indefinite" path="M60 22a240 9 0 1 0 480 0a240 9 0 1 0-480 0"/></circle>
+<g filter="url(#f)" stroke="url(#g)" stroke-width="3">
 <path d="M0 45H600" opacity=".25"/>
-<path d="M0 45q15-60 30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0">
+<path d="M0 45q15-60 30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0t30 0">
 <animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="1;0;1;0;1;0;1;0;0;0;1;0;0;0;1;0;1;1;1;0;1;0;1;0;0;0;1;0;1;1;1;0;1;0;1;0;0;0;1;1;1;0;1;1;1;0;1;1;1;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;1;1;1;0;0;0;1;0;1;0;1;1;1;0;0;0;1;1;1;0;1;0;1;0;0;0;1;0;0;0;1;1;1;0;1;0;0;0;1;1;1;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0"/>
 </path>
-<text x="181" y="115" fill="#58a6ff" stroke="none" font-family="monospace" font-size="28" font-weight="bold" textLength="238" clip-path="url(#c)">Hello Students</text>
+<text x="181" y="115" fill="url(#g)" stroke="none" font-family="monospace" font-size="28" font-weight="bold" textLength="238" clip-path="url(#c)">Hello Students</text>
+</g>
+<rect y="92" width="12" height="26" fill="#00f0ff">
+<animate attributeName="x" dur="14.4s" repeatCount="indefinite" calcMode="discrete" values="181;198;215;232;249;283;300;317;334;351;368;385;402;419" keyTimes="0;.0583;.0917;.1917;.2917;.4083;.5083;.5583;.6417;.725;.7583;.825;.875;.9417"/>
+<animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0"/>
+</rect>
 </svg>
