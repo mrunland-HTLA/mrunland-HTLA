@@ -25,6 +25,6 @@ I'm **Mr. Unland**: part computer wizard, part mathematician, part stargazer. I 
 
 <img src="isocalendar.svg" width="100%" alt="Isometric commit calendar">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mrunland-HTLA&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub stats">
 
 </div>
