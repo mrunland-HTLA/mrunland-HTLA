@@ -8,7 +8,7 @@
 
 ✦ ˚ ⋆ 🔭 ⋆ ˚ ✦
 
-**$e^{i\pi}+1=0$** *is my favorite spell.*
+Adding **$e^{i\pi}$** and **$1$** to get **$0$** *is my favorite spell.*
 
 </div>
 
