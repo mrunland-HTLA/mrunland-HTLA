@@ -3,7 +3,7 @@
    <img src="header.svg" width="100%" alt="Hello Students, in Morse code">
 
 ```
-/summon wizard Mr.Unland {Tags:["scientist","mathematician","astronomer"]}
+ Mr.Unland {Tags:["scientist","mathematician","astronomer"]}
 ```
 
 ✦ ˚ ⋆ 🔭 ⋆ ˚ ✦
