@@ -19,5 +19,5 @@
 <circle r="3" fill="#ff9ac5"><animateMotion dur="24.4s" repeatCount="indefinite" path="M50 25a240 15 0 1 0 480 0a240 15 0 1 0 -480 0"/></circle>
 <circle r="5.5" fill="#3265aE"><animateMotion dur="14.4s" repeatCount="indefinite" path="M80 25a210 12 0 1 0 420 0a210 12 0 1 0 -420 0"/></circle>
 <circle r="4.25" fill="#92752E"><animateMotion dur="8.8s" repeatCount="indefinite" path="M110 25a150 9 0 1 0 360 0a150 9 0 1 0 -360 0"/></circle>
-<circle r="1.95" fill="#d2d5dE"><animateMotion dur="8.8s" repeatCount="indefinite" path="M160 25a100 6 0 1 0 270 0a100 6 0 1 0 -270 0"/></circle>
+<circle r="1.95" fill="#d2d5dE"><animateMotion dur="4.2s" repeatCount="indefinite" path="M160 25a100 6 0 1 0 270 0a100 6 0 1 0 -270 0"/></circle>
 </svg>
